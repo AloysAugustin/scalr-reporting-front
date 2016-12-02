@@ -1,0 +1,17 @@
+#content {
+    width: 1280px;
+    margin: auto;
+}
+#title img {
+    display: block;
+    float: left;
+    width: 43px;
+    height: 43px;
+    margin: 19px 20px 5px 40px;
+}
+#title h1 {
+    display: inline-block;
+}
+#title {
+    margin-bottom: -8px;
+}
